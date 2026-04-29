@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm ModulusCore
 
-<!--
-**ModulusCore/ModulusCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+- 🚀 Python Developer creating bots, automations, and tools for music, gaming, and security.
+- 🎵 Passionate about combining technology and entertainment.
+- 🕶️ Building powerful, fun, and efficient solutions.
 
-Here are some ideas to get you started:
+### ⚡ Tech Stack:
+- **Languages:** Python
+- **Domains:** Bots, Automation, Music, Game Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Featured Projects:
+- [Aniya-Info-Bot](https://github.com/ModulusCore/Aniya-Info-Bot)
+- [TitaniumUB](https://github.com/ModulusCore/TitaniumUB)
+
+### 📊 GitHub Stats:
+![ModulusCore GitHub Stats](https://github-readme-stats.vercel.app/api?username=ModulusCore&show_icons=true&theme=radical)
+
+### 📡 Connect with Me:
+- 💬 Telegram: [@ModulusTG](https://t.me/ModulusTG)
+
+---
+*"Code as if the next person maintaining it is a kickboxer who knows where you live!"*
